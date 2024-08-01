@@ -6,7 +6,7 @@
 
 :blush: Este projeto está em estudo. Carga inicial realizada para manter cópia de segurança :blush:
 :blush: Meu interesse inicial é compreender BLOCKCHAIN E BITCOIN para tentar ingressar nesta tecnologia como MINERADORA :blush:
-:blush: Neste momento estou com repositório PRIVADO para verificar melhorias e implementações no código :blush:
+:blush: Neste momento estou com repositório PRIVADO para verificar melhorias e implementações a partir deste código original entregue para o desafio :blush:
 
 <img align="right" alt="GIF" height="160px" src="https://github.com/rdeconti/rdeconti-resources/blob/main/Digital%20Innovation%20One%20-%20Logotipo.png" />
 
